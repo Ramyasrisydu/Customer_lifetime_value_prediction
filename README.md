@@ -25,14 +25,6 @@ lifetimes:        $ sudo pip install lifetimes
 
 ```
 
-## Dataset
-
-* Data set can be download from this [link](http://archive.ics.uci.edu/ml/datasets/online+retail)
-* There is no need to download dataset because it is already downloaded. 
-* Path of dataset is `./input_data/`
-
 ## Usage
 Run the code given in ipython notebook `CLV_analysis_online_retail.ipynb`
 
-## Credit
-Code credits for this code go to [Susan Li](https://github.com/susanli2016). I've merely created a wrapper and necessary changes to get people started.
